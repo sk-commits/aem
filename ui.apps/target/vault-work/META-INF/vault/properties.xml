@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aemfirst - UI apps</comment>
+<entry key="createdBy">sai</entry>
+<entry key="name">aemfirst.ui.apps</entry>
+<entry key="created">2021-07-21T12:41:27.692+0530</entry>
+<entry key="groupId">aemfirst</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aemfirst</entry>
+<entry key="description">UI apps package for aemfirst</entry>
+<entry key="artifactId">aemfirst.ui.apps</entry>
+<entry key="path">/etc/packages/aemfirst/aemfirst.ui.apps.zip</entry>
+</properties>
